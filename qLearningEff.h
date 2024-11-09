@@ -1,5 +1,8 @@
 // This file is only for Q learning related functions
+// Harsh, 2103116
 // Harsh Choudhary, 2103117
+// Soham Jadhav, 2103136
+
 #include <EEPROM.h>
 #define sentinelValueForEEPROM 0x01
 
