@@ -1,3 +1,7 @@
+// Harsh, 2103116
+// Harsh Choudhary, 2103117
+// Soham Jadhav, 2103136
+
 #include "./qLearningEff.h"
 
 // Ultrasonic Sensor Pins (1 for left, 2 for right)
